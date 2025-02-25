@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Driver CDS View'
+define service ZSRV_A_DRIVER {
+  expose ZI_A_DRIVER;
+}
